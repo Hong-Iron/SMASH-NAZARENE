@@ -1,0 +1,48 @@
+{
+  "code": "NAZARENE",
+  "title": "SMASH NAZARENE",
+  "school": "나사렛대",
+  "fullName": "나사렛대학교",
+  "campusName": "나사렛대학교",
+  "tagline": "나사렛대를 부셔 (시험기간 스트레스 해소)",
+  "description": "나사렛대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 나사렛대학교 3D 화면과 SMASH NAZARENE 제목",
+  "url": "https://hong-iron.github.io/SMASH-NAZARENE/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 230151491
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/496130122",
+      "n": "교수 연구관",
+      "why": "항공사진에 없음 — 항공사진에서 이 자리는 주차선이 그어진 주차장이고 대학 캠퍼스 맵에도 주차장으로만 그려져 있어, 여기에는 건물이 없다."
+    },
+    {
+      "at": [
+        36.7988309,
+        127.1199005
+      ],
+      "n": "소망관",
+      "why": "같은 건물 겹침 — 브이월드가 16번 소망관을 한 번 더 그린 것으로, 두 윤곽이 거의 다 겹치고 건물대장 기록도 같다."
+    }
+  ],
+  "look": {
+    "나사렛관": {
+      "style": "brick",
+      "wall": "#a46e52",
+      "glass": "#4e5c5c",
+      "frame": "#ddd4c8"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
